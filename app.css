@@ -1,0 +1,46 @@
+h1 {
+  font-size: 72px;
+  font-weight: bold;
+  color: #000;
+}
+
+.visor{
+  text-align: right;
+  width: 600px;
+  height: 100px;
+  display: block;
+  float:right;
+}
+
+.calculadora {
+  width: 360px;
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px 0px #a7a7a7;
+  overflow: hidden;
+  float: left;
+}
+
+body {
+  background-color: #f7f7f7 ;
+}
+
+button {
+  font-weight: bold;
+  font-size: 92px;
+  color: #677ffe;
+  width: 120px;
+  text-align: center;
+  background: #fff;
+  padding: 0;
+  border: 0;
+  display: block;
+  float: right;
+}
+
+.container {
+  max-width: 960px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
